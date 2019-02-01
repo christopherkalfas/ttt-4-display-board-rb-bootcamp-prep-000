@@ -10,4 +10,7 @@ def display_board(game_on)
 
 
  puts board = [" "," "," "," "," "," "," "," "," "]
+ 
+ 
+ 
  end
