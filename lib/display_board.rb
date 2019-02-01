@@ -6,7 +6,8 @@ def display_board(game_on)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-end
 
 
-/
+
+ puts board = [" "," "," "," "," "," "," "," "," "]
+ end
